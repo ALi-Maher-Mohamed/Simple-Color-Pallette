@@ -1,0 +1,37 @@
+import 'dart:ui';
+
+import 'package:flutter/material.dart';
+
+List<Color> colorList = const [
+  Color(0xffff9f1c),
+  Color(0xffffbf69),
+  Color(0xffF15156),
+  Color(0xffACAD94),
+  Color(0xff484538),
+  Color(0xff360A14),
+  Color(0xffA60067),
+  Color(0xff222222),
+  Color(0xff95A3B3),
+  Color(0xff84DCC6),
+  Color(0xff453750),
+  Color(0xff912F40),
+  Color(0xffffffff),
+  Color(0xff721121),
+  Color(0xffcbf3f0),
+  Color(0xff2ec4b6),
+  Color(0xffe0fbfc),
+  Color(0xffc2dfe3),
+  Color(0xff384D48),
+  Color(0xff9db4c0),
+  Color(0xff5c6b73),
+  Color(0xff253237),
+  Color(0xff4357ad),
+  Color(0xff48a9a6),
+  Color(0xffe4dfda),
+  Color(0xffd4b483),
+  Color(0xffc1666b),
+  Color(0xffE0CA3C),
+  Color(0xff2D3047),
+  Color(0xff048A81),
+  Color(0xffA5402D),
+];
